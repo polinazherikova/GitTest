@@ -115,3 +115,4 @@ def delDuplicat(dict):
 print(delDuplicat(d))
 print("Hello!")
 print("what is your name?")
+print("GOOD day!")
