@@ -113,3 +113,5 @@ def delDuplicat(dict):
             withoutDup[key]=value
     return withoutDup
 print(delDuplicat(d))
+print("Hello!")
+print("what is your name?")
